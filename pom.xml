@@ -8,7 +8,6 @@
   <modules>
     <module>web</module>
     <module>resource</module>
-      <module>controller</module>
   </modules>
   <packaging>pom</packaging>
 
